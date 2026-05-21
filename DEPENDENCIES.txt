@@ -1,2 +1,3 @@
 https://github.com/ChillCube/InventoryFrame2D
 https://github.com/ChillCube/NumberDisplay
+https://github.com/ChillCube/InventoryGodot
